@@ -25,3 +25,5 @@ models
 
 database - mongodb
 
+
+Added middleware for auth and role based middlewares
